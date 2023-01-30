@@ -7,6 +7,8 @@
   Gatsby minimal starter
 </h1>
 
+おためし作成サイト
+
 ## 🚀 Quick start
 
 1.  **Create a Gatsby site.**
